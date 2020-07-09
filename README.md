@@ -5,5 +5,10 @@ Example pictures:
 
 ![alt text](example1.jpg?raw=true)
 
+![alt text](example2.jpg?raw=true)
+
+![alt text](example3.jpg?raw=true)
+
+
 
 I also plugged into an API on flask. Could have done django too, but went with flask since its a single use demonstration. 
